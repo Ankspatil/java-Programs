@@ -1,0 +1,44 @@
+body{
+    background-color: aliceblue;
+}
+input{
+   
+    margin: 10px;
+    padding: 20px;
+    border-radius: 20px;
+     font-size: medium;
+    font-style: italic;
+}
+.nature{
+    text-align: center;
+    margin-top: 18%;
+    border-width: 1px;
+    height: 44px;
+    border-radius: 22px;
+}
+button
+{
+    padding-left: 16px;
+    padding-right: 16px;
+    height: 36px;
+    background-color: #303134;
+    border-width: 1px;
+    border-color: #5f6368;
+    border-style: solid;
+    color: #e8eaed;
+    background-color: #5f6368;  
+}
+.asp
+{
+  position: absolute;
+  left: 400px;
+  width: 200px;
+  height: 120px;
+  margin-top: 15px;
+  
+}
+.larger{
+    width: 30px;
+    height: 30px;
+    
+}
